@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+!flake.lock
+
+!hosts/
+!hosts/**/
+
+!lib/
+
+!modules/
+!modules/**/
+
+!*.nix
+!*.md
+!*.sh
