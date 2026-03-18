@@ -4,7 +4,6 @@
     "libreoffice"
     "skim"
 
-    "obsidian"
     "raycast"
     "utm"
   ];
